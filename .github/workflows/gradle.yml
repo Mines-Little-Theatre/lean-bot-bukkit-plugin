@@ -35,4 +35,4 @@ jobs:
       - uses: actions/upload-artifact@v3
         with:
           name: Plugin JAR
-          path: build/libs/lean-bot-bukkit-plugin-1.0.0.jar
+          path: build/libs
